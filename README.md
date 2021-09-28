@@ -2,7 +2,6 @@
 - 👀 I’m interested in drawing,arts,singing
 - ✔  I'm a CPP programmer
 - 🌱 I’m currently learning Python and webdev
-- 💞️ I’m looking to collaborate on ...👩🏻‍💻
 - 📫 How to reach me ... umm can find my twitter account? maybe if u can 
 
 <!---
