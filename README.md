@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @npkeerthi
+- ![ Alt text](https://c.tenor.com/PJ4-hzHhDyEAAAAC/hi-hey.gif)
 - 👀 I’m interested in drawing,arts,singing
-- ✔  I'm a CPP programmer
+- ✔  I'm a CPP, Python programmer
 - 🌱 I’m currently learning Python and webdev
 - 📫 How to reach me ... umm can find my twitter account? maybe if u can 
 
