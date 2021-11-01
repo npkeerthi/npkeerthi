@@ -15,7 +15,7 @@
 <p/>
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="GitHub"/>&nbsp;
   <b>My Activeness In GitHub</b>
     </p>
     
@@ -23,7 +23,7 @@
     
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=npkeerthi&show_icons=true&locale=en&theme=radical" alt="mystats" width="500" /></p>
  
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
     
     
  ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=npkeerthi&theme=radical&hide_border=true&area=true)
