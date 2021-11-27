@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%23F74F80&size=35&center=true&vCenter=true&lines=++++Hi..+It's++Keerthi++here..;++++A++Python++Developer;++++AI+%2C+ML++enthusiast)](https://git.io/typing-svg)
 </h1>
 
+
 <p align="center">
   
   <a href="https://www.linkedin.com/in/padma-keerthi-77772721b/">
@@ -24,6 +25,9 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=npkeerthi&show_icons=true&locale=en&theme=radical" alt="mystats" width="500" /></p>
     
 <p><br><br><br><br><br><br><br><br><br><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=npkeerthi&theme=radical" alt="mystats" width="500" /></p>
+    
+    
+<p align="center" width="100"><img  src="https://komarev.com/ghpvc/?username=npkeerthi&color=4f0234" alt="views"></p>
 
 <!-- 
     
