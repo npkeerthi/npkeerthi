@@ -25,7 +25,7 @@
     
     
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="GitHub"/>&nbsp;
+ <img width=200px src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="GitHub"/>&nbsp;
   <b>My Activeness In GitHub</b>
     </p>
     
