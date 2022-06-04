@@ -23,11 +23,11 @@
     
     
     
-    
+<!--     
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="10px" alt="GitHub"/>&nbsp;
   <b>My Activeness In GitHub</b>
-    </p>
+    </p> -->
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=npkeerthi&show_icons=true&locale=en&layout=compact&theme=radical" alt="mylangs" width="500" /></p>
     
